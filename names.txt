@@ -1,8 +1,2 @@
 Shirish reddy
-<<<<<<< HEAD
-git practise
-dummy file
-=======
-dummy file
 
->>>>>>> d6b6aa1d4cf4943ca57c98ff2919579ab0cc857c
